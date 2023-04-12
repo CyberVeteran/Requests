@@ -1,0 +1,48 @@
+{
+  "blogs": [
+    {
+      "title": "Romans",
+      "body": "hello from",
+      "author": "Augustus",
+      "id": 1
+    },
+    {
+      "title": "Poland!",
+      "body": "hello from",
+      "author": "Lewandovski",
+      "id": 2
+    },
+    {
+      "title": " Ukraine",
+      "body": "hello from",
+      "author": "Me",
+      "id": 3
+    }
+  ],
+  "drivers": [
+    {
+      "id": 4,
+      "name": "Fernando Alonso",
+      "team": "Aston Martin"
+    },
+    {
+      "id": 5,
+      "name": "Lance Stroll",
+      "team": "Aston Martin"
+    },
+    {
+      "id": 6,
+      "name": "Charles Lecrerc",
+      "team": "Ferrari"
+    },
+    {
+      "id": 7,
+      "name": "Carlos Saint",
+      "team": "Ferrari"
+    },
+    {
+      "id": 8,
+      "name": "Sebastian Vettel"
+    }
+  ]
+}
